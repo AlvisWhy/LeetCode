@@ -3,9 +3,11 @@
 1. Array
 
 Binary Search
+
 [1. Binary_Search](https://github.com/AlvisWhy/LeetCode/blob/main/src/704_Binary_Search.java)
 
 Two Pointers
+
 [1. Remove_Elements](https://github.com/AlvisWhy/LeetCode/blob/main/src/27_Remove_Elements.java)
 
 [2. Square_of_Ordered_Array](https://github.com/AlvisWhy/LeetCode/blob/main/src/977_Square_of_Ordered_Array.java)
