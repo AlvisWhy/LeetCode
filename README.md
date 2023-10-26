@@ -1,6 +1,6 @@
 # LeetCode
 
-##1. Array
+##Array
 
 Binary Search
 
