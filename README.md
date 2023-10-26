@@ -1,5 +1,4 @@
 # LeetCode
-
 1. Array
 
 Binary Search
