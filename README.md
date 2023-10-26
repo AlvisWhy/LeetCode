@@ -1,7 +1,7 @@
 # LeetCode
 
 Array
-====
+------
 
 Binary Search
 
