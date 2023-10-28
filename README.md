@@ -13,5 +13,5 @@
 [Remove Linked List Elements](https://github.com/AlvisWhy/LeetCode/blob/main/src/203_Remove_Linked_List_Elements.java)<br>
 ### 2 Double Pointers
 [Reverse Linked List](https://github.com/AlvisWhy/LeetCode/blob/main/src/206_Reverse_LinkedList.java)<br>
-### 3 
+### 3 Design Linked List
 [Design Linked List](https://github.com/AlvisWhy/LeetCode/blob/main/src/707_Design_Linked_List.java)<br>
