@@ -7,11 +7,17 @@
 [Square_of_Ordered_Array](https://github.com/AlvisWhy/LeetCode/blob/main/src/977_Square_of_Ordered_Array.java)<br>
 [Subarray_with_Minimum_Length](https://github.com/AlvisWhy/LeetCode/blob/main/src/209_Subarray_with_Minimum_Length.java)<br>
 ### 3 Spiral Matrix
-[1. Spiral Matrix](https://github.com/AlvisWhy/LeetCode/blob/main/src/59_Spiral_Matrix_II.java)<br>
+[Spiral Matrix](https://github.com/AlvisWhy/LeetCode/blob/main/src/59_Spiral_Matrix_II.java)<br>
 ## Linked_List
 ### 1 Dummy Node
 [Remove Linked List Elements](https://github.com/AlvisWhy/LeetCode/blob/main/src/203_Remove_Linked_List_Elements.java)<br>
 ### 2 Double Pointers
 [Reverse Linked List](https://github.com/AlvisWhy/LeetCode/blob/main/src/206_Reverse_LinkedList.java)<br>
+[Exchange Linked List Node in Pairs](https://github.com/AlvisWhy/LeetCode/blob/main/src/24_Exchange_Linked_List_Node_in_Pairs.java)<br>
 ### 3 Design Linked List
 [Design Linked List](https://github.com/AlvisWhy/LeetCode/blob/main/src/707_Design_Linked_List.java)<br>
+### 4  Fast-Slow Pointers
+[Circular Linked List](https://github.com/AlvisWhy/LeetCode/blob/main/src/142_Circular_Linked_List.java)<br>
+[Delete the Nth Node from the End of Linked List](https://github.com/AlvisWhy/LeetCode/blob/main/src/19_Delete_the_Nth_Node_from_the_End_of_Linked%20_List.java)<br>
+### 5  Intersected Linked List
+[Intersected Linked List](https://github.com/AlvisWhy/LeetCode/blob/main/src/160_Intersected_Linked_List.java)<br>
