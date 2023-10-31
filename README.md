@@ -21,3 +21,8 @@
 [Delete the Nth Node from the End of Linked List](https://github.com/AlvisWhy/LeetCode/blob/main/src/19_Delete_the_Nth_Node_from_the_End_of_Linked%20_List.java)<br>
 ### 5  Intersected Linked List
 [Intersected Linked List](https://github.com/AlvisWhy/LeetCode/blob/main/src/160_Intersected_Linked_List.java)<br>
+## HashSet
+[1.Valid Anagrams](https://github.com/AlvisWhy/LeetCode/blob/main/src/242_Valid_Anagrams.java)<br>
+[2.Number of Bits 1](https://github.com/AlvisWhy/LeetCode/blob/main/src/191_Number_of_Bits_1.java)<br>
+[3.Happy Number](https://github.com/AlvisWhy/LeetCode/blob/main/src/202_Happy_Number.java)<br>
+[4.Intersection of Two Arrays](https://github.com/AlvisWhy/LeetCode/blob/main/src/349_Intersection_of_Two_Arrays.java)<br>
