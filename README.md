@@ -26,8 +26,8 @@
 [2.Number of Bits 1](https://github.com/AlvisWhy/LeetCode/blob/main/src/191_Number_of_Bits_1.java)<br>
 [3.Happy Number](https://github.com/AlvisWhy/LeetCode/blob/main/src/202_Happy_Number.java)<br>
 [4.Intersection of Two Arrays](https://github.com/AlvisWhy/LeetCode/blob/main/src/349_Intersection_of_Two_Arrays.java)<br>
-[5. Add Four Numbers](https://github.com/AlvisWhy/LeetCode/blob/main/src/454_Add_Four_Numbers.java)<br>
-[5. Ransom letter](https://github.com/AlvisWhy/LeetCode/blob/main/src/383_Ransom%20letter.java)<br>
+[5.Add Four Numbers](https://github.com/AlvisWhy/LeetCode/blob/main/src/454_Add_Four_Numbers.java)<br>
+[5.Ransomletter](https://github.com/AlvisWhy/LeetCode/blob/main/src/383_Ransom%20letter.java)<br>
 ### Double Pointers
-[Sum of Three Numbers](https://github.com/AlvisWhy/LeetCode/blob/main/src/15_Sum_of_Three_Numbers.java)<br>
-[Sum of Four Numbers](https://github.com/AlvisWhy/LeetCode/blob/main/src/15_Sum_of_Four_Numbers.java)<br>
+[1.Sum of Three Numbers](https://github.com/AlvisWhy/LeetCode/blob/main/src/15_Sum_of_Three_Numbers.java)<br>
+[2.Sum of Four Numbers](https://github.com/AlvisWhy/LeetCode/blob/main/src/15_Sum_of_Four_Numbers.java)<br>
