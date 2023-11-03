@@ -33,6 +33,9 @@
 [2.Sum of Four Numbers](https://github.com/AlvisWhy/LeetCode/blob/main/src/15_Sum_of_Four_Numbers.java)<br>
 ## String
 ### Reverse or Shift
+## Queue and Stack
+[1.Realize Queue with Stack](https://github.com/AlvisWhy/LeetCode/blob/main/src/232_Realize_Queue_with_Stack.java)<br>
+[2.Realize Stack with Queue](https://github.com/AlvisWhy/LeetCode/blob/main/src/255_Realize_Stack_with_Queue.java)<br>
 
 
 
