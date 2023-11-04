@@ -33,6 +33,12 @@
 [2.Sum of Four Numbers](https://github.com/AlvisWhy/LeetCode/blob/main/src/15_Sum_of_Four_Numbers.java)<br>
 ## String
 ### Reverse or Shift
+[1.Reverse Words in String](https://github.com/AlvisWhy/LeetCode/blob/main/src/151_Reverse_Words_in_String.java)<br>
+[2.Path Encryption](https://github.com/AlvisWhy/LeetCode/blob/main/src/LCR_122_Path_Encryption.java)<br>
+[3.Dynamic Password](https://github.com/AlvisWhy/LeetCode/blob/main/src/LCR_182_Dynamic_Password.java)<br>
+### Double Pointers
+[1.Reverse String](https://github.com/AlvisWhy/LeetCode/blob/main/src/344_Reverse_String.java)<br>
+[2.Reverse String 2](https://github.com/AlvisWhy/LeetCode/blob/main/src/344_Reverse_String_2.java)<br>
 ## Queue and Stack
 [1.Realize Queue with Stack](https://github.com/AlvisWhy/LeetCode/blob/main/src/232_Realize_Queue_with_Stack.java)<br>
 [2.Realize Stack with Queue](https://github.com/AlvisWhy/LeetCode/blob/main/src/255_Realize_Stack_with_Queue.java)<br>
