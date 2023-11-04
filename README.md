@@ -36,7 +36,9 @@
 ## Queue and Stack
 [1.Realize Queue with Stack](https://github.com/AlvisWhy/LeetCode/blob/main/src/232_Realize_Queue_with_Stack.java)<br>
 [2.Realize Stack with Queue](https://github.com/AlvisWhy/LeetCode/blob/main/src/255_Realize_Stack_with_Queue.java)<br>
-
+[3.Valid Parentheses](https://github.com/AlvisWhy/LeetCode/blob/main/src/20_Valid_Parentheses.java)<br>
+[4.Reverse Polish Expression Evaluation](https://github.com/AlvisWhy/LeetCode/blob/main/src/150_Reverse_Polish_Expression_Evaluation.java)<br>
+[5.Remove All Adjecent Duplicates in a String](https://github.com/AlvisWhy/LeetCode/blob/main/src/1047_Remove_All_Adjecent_Duplicates_in_a_String.java)<br>
 
 
 
