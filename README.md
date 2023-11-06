@@ -45,8 +45,9 @@
 [3.Valid Parentheses](https://github.com/AlvisWhy/LeetCode/blob/main/src/20_Valid_Parentheses.java)<br>
 [4.Reverse Polish Expression Evaluation](https://github.com/AlvisWhy/LeetCode/blob/main/src/150_Reverse_Polish_Expression_Evaluation.java)<br>
 [5.Remove All Adjecent Duplicates in a String](https://github.com/AlvisWhy/LeetCode/blob/main/src/1047_Remove_All_Adjecent_Duplicates_in_a_String.java)<br>
-
-
+[6.Maximum Sliding Window](https://github.com/AlvisWhy/LeetCode/blob/main/src/239_Maximum_Sliding_Window.java)<br>
+### PriorityQueue
+[1.The First K High-frequency Elements](https://github.com/AlvisWhy/LeetCode/blob/main/src/347_The_First_K_High-frequency_Elements.java)<br>
 
 
 
