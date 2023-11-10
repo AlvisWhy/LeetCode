@@ -48,8 +48,9 @@
 [6.Maximum Sliding Window](https://github.com/AlvisWhy/LeetCode/blob/main/src/239_Maximum_Sliding_Window.java)<br>
 ### PriorityQueue
 [1.The First K High-frequency Elements](https://github.com/AlvisWhy/LeetCode/blob/main/src/347_The_First_K_High-frequency_Elements.java)<br>
-
-
+## Binary Tree
+### Traversal
+[1.3 Orders of Binary Tree Traversal](https://github.com/AlvisWhy/LeetCode/blob/main/src/94_145_144_3Orders_of_Binary_Tree_Traversal.java)<br>
 
 
 
