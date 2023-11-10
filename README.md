@@ -51,8 +51,15 @@
 ## Binary Tree
 ### Traversal
 [1.3 Orders of Binary Tree Traversal](https://github.com/AlvisWhy/LeetCode/blob/main/src/94_145_144_3Orders_of_Binary_Tree_Traversal.java)<br>
-
-
-
-
-
+### Level_order Traversal
+[1.Maximum depth of binary tree](https://github.com/AlvisWhy/LeetCode/blob/main/src/104_Maximum_depth_of_binary_tree.java)<br>
+[2.Level%20-%20order traversal of binary trees2](https://github.com/AlvisWhy/LeetCode/blob/main/src/107_Level%20-%20order_traversal_of_binary_trees2.java)<br>
+[3.Minimum depth of binary tree](https://github.com/AlvisWhy/LeetCode/blob/main/src/111_Minimum_depth_of_binary_tree.java)<br>
+[4.Fill the next right node pointer of each node](https://github.com/AlvisWhy/LeetCode/blob/main/src/116_Fill_the_next_right_node_pointer_of_each_node.java)<br>
+[5.Fill_the next right node pointer of each node2](https://github.com/AlvisWhy/LeetCode/blob/main/src/117_Fill_the_next_right_node_pointer_of_each_node2.java)<br>
+[6.Right view of binary tree](https://github.com/AlvisWhy/LeetCode/blob/main/src/19_Right_view_of_binary_tree.java)<br>
+[7.Level-order traversal of N-ary tree](https://github.com/AlvisWhy/LeetCode/blob/main/src/429_Level-order_traversal_of_N-ary_tree.java)<br>
+[8.Find the maximum value in each tree row](https://github.com/AlvisWhy/LeetCode/blob/main/src/515_Find_the_maximum_value_in_each_tree_row.java)<br>
+### Others
+[1.Symmetric binary tree](https://github.com/AlvisWhy/LeetCode/blob/main/src/101_Symmetric_binary_tree.java)<br>
+[2.Flip binary tree](https://github.com/AlvisWhy/LeetCode/blob/main/src/226_Flip_binary_tree.java)<br>
