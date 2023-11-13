@@ -63,3 +63,13 @@
 ### Others
 [1.Symmetric binary tree](https://github.com/AlvisWhy/LeetCode/blob/main/src/101_Symmetric_binary_tree.java)<br>
 [2.Flip binary tree](https://github.com/AlvisWhy/LeetCode/blob/main/src/226_Flip_binary_tree.java)<br>
+[3.Balanced binary tree](https://github.com/AlvisWhy/LeetCode/blob/main/src/110_Balanced_binary_tree.java)<br>
+[4.All paths of binary tree](https://github.com/AlvisWhy/LeetCode/blob/main/src/257_All_paths_of_binary_trees.java)<br>
+[5.Sum of left leaves](https://github.com/AlvisWhy/LeetCode/blob/main/src/404_Sum_of_left_leaves.java)<br>
+
+
+
+
+
+
+
