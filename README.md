@@ -66,6 +66,10 @@
 [3.Balanced binary tree](https://github.com/AlvisWhy/LeetCode/blob/main/src/110_Balanced_binary_tree.java)<br>
 [4.All paths of binary tree](https://github.com/AlvisWhy/LeetCode/blob/main/src/257_All_paths_of_binary_trees.java)<br>
 [5.Sum of left leaves](https://github.com/AlvisWhy/LeetCode/blob/main/src/404_Sum_of_left_leaves.java)<br>
+[6.Construct a binary tree from mid-order and post-order traversal sequences](https://github.com/AlvisWhy/LeetCode/blob/main/src/106_Construct_a_binary_tree_from_mid-order_and_post-order_traversal_sequences.java)<br>
+[7.Path sum](https://github.com/AlvisWhy/LeetCode/blob/main/src/112_Path_sum.java)<br>
+[8.Find the value of the lower left corner of the tree](https://github.com/AlvisWhy/LeetCode/blob/main/src/513_Find_the_value_of_the_lower_left_corner_of_the_tree.java)<br>
+
 
 
 
