@@ -69,9 +69,11 @@
 [6.Construct a binary tree from mid-order and post-order traversal sequences](https://github.com/AlvisWhy/LeetCode/blob/main/src/106_Construct_a_binary_tree_from_mid-order_and_post-order_traversal_sequences.java)<br>
 [7.Path sum](https://github.com/AlvisWhy/LeetCode/blob/main/src/112_Path_sum.java)<br>
 [8.Find the value of the lower left corner of the tree](https://github.com/AlvisWhy/LeetCode/blob/main/src/513_Find_the_value_of_the_lower_left_corner_of_the_tree.java)<br>
-
-
-
+[9.Merge binary trees](https://github.com/AlvisWhy/LeetCode/blob/main/src/617_Merge_binary_trees.java)<br>
+[10.Maximum binary tree](https://github.com/AlvisWhy/LeetCode/blob/main/src/654_Maximum_binary_tree.java)<br>
+## Binary Search Tree
+[1.Search in Binary Search Tree](https://github.com/AlvisWhy/LeetCode/blob/main/src/700_Search_in_Binary_Search_Tree.java)<br>
+[2.Verify binary search tree](https://github.com/AlvisWhy/LeetCode/blob/main/src/98_Verify_binary_search_tree.java)<br>
 
 
 
